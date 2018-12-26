@@ -1,0 +1,36 @@
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.pdb
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\bin\Debug\Loadbalancing.exe
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\bin\Debug\Loadbalancing.pdb
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\ResolveAssemblyReference.cache
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Admin.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Browse.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Download.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.IPForm.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Login.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Register.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Main.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Properties.Resources.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Resptime.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Upload.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.ViewFiles.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.ViewIP.resources
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.csproj.GenerateResource.Cache
+E:\Poondi_College_Projects\NETWORK LOAD BALANCING\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.exe
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.exe
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.pdb
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\bin\Debug\Loadbalancing.exe
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\bin\Debug\Loadbalancing.pdb
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\ResolveAssemblyReference.cache
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Admin.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Browse.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Download.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.IPForm.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Login.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Register.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Main.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Properties.Resources.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Resptime.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.Upload.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.ViewFiles.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.ViewIP.resources
+D:\DWA16\PROJECT\Loadbalancing\Loadbalancing\obj\Debug\Loadbalancing.csproj.GenerateResource.Cache
